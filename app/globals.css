@@ -1,8 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+/* Variables */
 :root {
+  /* Colours */
   --yellow: #F4D04E;
   --white: #FFFFFF;
   --black: #111111;
   --grey: #7F7F7F;
+
+  /* Fonts */
+  --primary-font: "Figtree", sans-serif
 }
 
 html, body {
@@ -10,6 +17,8 @@ html, body {
   height: 100vh;
   margin: 0;
   box-sizing: border-box;
+  font-family: var(--primary-font);
+  color: var(--black);
   background-color: var(--yellow);
   display: flex;
   flex-direction: column;
