@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./public/assets/images/Screenshot.png)
+![](./public/assets/images/screenshot.png)
 
 ### Links
 
 - Solution URL: [Github](https://github.com/Eugene-ak/blog-preview-card.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://blog-preview-card-rouge.vercel.app/](https://blog-preview-card-rouge.vercel.app/)
 
 ## My process
 
